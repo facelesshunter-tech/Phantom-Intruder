@@ -7,6 +7,7 @@ isolate the response that matters — all from one command.
 
 > **Authorised testing only.** Run this exclusively against systems you own or
 > are explicitly permitted to test, such as your own PortSwigger lab instances.
+> For authorised security testing and educational use only.
 
 ---
 
